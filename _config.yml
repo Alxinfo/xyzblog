@@ -17,7 +17,7 @@ title: Just another IT Blog
 email: alexandre@carbonnier.xyz
 description: >- # this means to ignore newlines until "baseurl:"
   Blog d'un mec qui tente de faire quelques choses de ses dix doigts dans
-  l'It et qui vous partage ce qu'il fait (quand ça marche).
+  l'It et qui vous partage ce qu'il fait.
 baseurl: "/xyzblog" # the subpath of your site, e.g. /blog
 url: "https://alxinfo.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
